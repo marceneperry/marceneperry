@@ -1,18 +1,19 @@
 - 👋 Hi, I’m @marceneperry
 - 🌱 I am a student in Software Development at Utah Valley University
     Currently taking:
-    Summer: CS2420 Introduction to Algorithms and Data Structures
-    Fall: CS 2450 Software Engineering
+    Fall 2023:
+          CS 2450 Software Engineering
           CS 2600 Computer Networks
           CS 339R Rust programming
 
     Completed courses:
-    CS 1400 Fundamentals of Programming
-    CS 1410 Object Oriented Programming
-    CS 2300 Discrete Math Structures I
-    CS 2370 C++ Programming
-    CS 2550 Web Programming I
-    CS 2810 Computer Organization and Architecture (Machine Language programming)
+        CS 1400 Fundamentals of Programming
+        CS 1410 Object Oriented Programming
+        CS 2300 Discrete Math Structures I
+        CS 2370 C++ Programming
+        CS 2420 Introduction to Algorithms and Data Structures
+        CS 2550 Web Programming I
+        CS 2810 Computer Organization and Architecture (Machine Language Programming)
   
 - 👀 I’m interested in solving problems
 
