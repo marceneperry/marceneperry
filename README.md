@@ -1,12 +1,15 @@
 - 👋 Hi, I’m @marceneperry
 - 🌱 I am a student in Software Development at Utah Valley University
     Currently taking:
+  
     Fall 2023:
+
           CS 2450 Software Engineering
           CS 2600 Computer Networks
           CS 339R Rust programming
 
     Completed courses:
+
         CS 1400 Fundamentals of Programming
         CS 1410 Object Oriented Programming
         CS 2300 Discrete Math Structures I
