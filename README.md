@@ -4,9 +4,9 @@
   
     Fall 2023:
 
-          CS 2450 Software Engineering
-          CS 2600 Computer Networks
-          CS 339R Rust programming
+        CS 2450 Software Engineering
+        CS 2600 Computer Networks
+        CS 339R Rust programming
 
     Completed courses:
 
